@@ -1,5 +1,4 @@
 {
   "app_password": "paskamuyangrahasia",
-  "webhook_url": "http://45.142.115.225:3504/webhook/notif",
   "is_active": true
 }
