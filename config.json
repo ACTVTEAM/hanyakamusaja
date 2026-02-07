@@ -1,4 +1,5 @@
 {
-  "app_password": "paskamuyangrahasia",
-  "is_active": true
+  "valid_key": "qoupay",
+  "status": "aktif",
+  "pesan": "Login Berhasil"
 }
