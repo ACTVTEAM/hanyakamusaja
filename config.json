@@ -1,5 +1,4 @@
 {
   "valid_key": "qoupay",
-  "status": "aktif",
-  "pesan": "Login Berhasil"
+  "is_active": true
 }
